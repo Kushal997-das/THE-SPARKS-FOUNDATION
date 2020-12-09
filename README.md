@@ -56,7 +56,7 @@ predict the right class accordingly. <br>
 > Demo:
 <a href="https://www.youtube.com/watch?v=UFl8yvJF4qk">Prediction using Decision Tree Algorithm</a><br><br>
 
-## To explore Business Analytics (Level-Intermediate)
+## To explore Business Analytics (Level-Intermediate) <br><br>
 > Problem Statement:
 - Perform ‘explore Business Analytics’ on dataset ‘superstore.csv’ <br>
 
@@ -68,7 +68,21 @@ predict the right class accordingly. <br>
 > Solution:
 <a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/To%20explore%20Business%20Analytics/Task-5.ipynb">To explore Business Analytics </a><br>
 > Demo:
-<a href="https://www.youtube.com/watch?v=n_asl4kNRcg">To explore Business Analytics</a><br>
+<a href="https://www.youtube.com/watch?v=n_asl4kNRcg">To explore Business Analytics</a><br><br>
+
+## Exploratory Data Analysis - Terrorism (Level - Intermediate)
+> Problem Statement:
+- Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’ <br>
+- As a security/defense analyst, try to find out the hot zone of terrorism.<br>
+- What all security issues and insights you can derive by EDA?<br>
+- You can choose any of the tool of your choice
+(Python/R/Tableau/PowerBI/Excel/SAP/SAS)<br>
+- Here is the dataset :
+<a href="https://bit.ly/2TK5Xn5">Dataset.csv</a><br>
+> Solution:
+<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Exploratory%20Data%20Analysis%20-%20Terrorism/Exploratory%20Data%20Analysis%20-%20Terrorism.ipynb">Exploratory Data Analysis - Terrorism</a><br>
+> Demo:
+<a href=" ">Exploratory Data Analysis - Terrorism</a><br><br>
 
 
 
