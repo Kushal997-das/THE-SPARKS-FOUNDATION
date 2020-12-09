@@ -30,7 +30,7 @@ represent it visually.<br>
 > Demo:
 <a href="https://youtu.be/HV0tD0OQF5w">Prediction using Unsupervised ML</a><br><br>
 
-## Task-Exploratory Data Analysis - Retail (Level - Beginner) <br><br>
+## Exploratory Data Analysis - Retail (Level - Beginner) <br><br>
 > Problem Statement:
 - Perform ‘Exploratory Data Analysis’ on dataset ‘Retail(Dataset).csv’ <br>
 - As a business manager, try to find out the weak areas where you can work to
