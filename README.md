@@ -12,7 +12,20 @@
 > Solution:
 <a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Prediction%20using%20Supervised%20ML/Supervised%20ML%20.ipynb"> Prediction using Supervised ML</a><br>
 >Demo:
-<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Task%232%20The%20spark%20foundation%20.ipynb">Prediction using Supervised ML</a><br>
+<a href="https://youtu.be/yPUkaPVM2EY">Prediction using Supervised ML</a><br><br>
+
+## Prediction using Unsupervised ML (Level - Beginner)<br><br>
+> Problem Statement:
+- From the given ‘Iris’ dataset, predict the optimum number of clusters and
+represent it visually.<br>
+- Use R or Python or perform this task<br>
+- Here is the dataset :
+<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Prediction%20using%20Unsupervised%20ML/Iris.csv">Dataset.csv</a>
+<br>
+> Solution:
+<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Prediction%20using%20Unsupervised%20ML/Unsupervised%20ML.ipynb"> Prediction using UnSupervised ML</a><br>
+>Demo:
+<a href="https://youtu.be/HV0tD0OQF5w">Task-3</a><br>">Prediction using Unsupervised ML</a><br><br>
 
 ## Task-Exploratory Data Analysis - Retail (Level - Beginner) <br><br>
 > Problem Statement:
@@ -31,7 +44,7 @@ make more profit.<br>
 <a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Task%232%20The%20spark%20foundation%20.ipynb">Exploratory Data Analysis-Retail</a><br>
 
 
-<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Task-3/Iris.csv">k</a>
+
 
 
 
