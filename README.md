@@ -102,7 +102,7 @@ predict the right class accordingly. <br>
 > Solution:
 <a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Exploratory%20Data%20Analysis%20-%20Sports/Exploratory%20Data%20Analysis%20-%20Sports.ipynb">Exploratory Data Analysis - Sports</a><br>
 > Demo:
-<a href=" ">Exploratory Data Analysis - Sports</a><br><br>
+<a href="https://youtu.be/aXOHe1lsPBo">Exploratory Data Analysis - Sports</a><br><br>
 
 
 
