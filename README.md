@@ -69,7 +69,7 @@ make more profit.<br>
 > Solution:
 <a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Exploratory%20Data%20Analysis%20-%20Retail/Exploratory%20Data%20Analysis%20-%20Retail.ipynb"> Exploratory Data Analysis-Retail</a><br>
 >Demo:
-<a href="https://youtu.be/0gM3PsFXPrw">Exploratory Data Analysis-Retail</a><br>
+<a href="https://youtu.be/tPzOUmbOKnQ">Exploratory Data Analysis-Retail</a><br>
 
 
 
