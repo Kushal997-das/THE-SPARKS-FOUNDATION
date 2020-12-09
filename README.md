@@ -1,17 +1,37 @@
 # THE-SPARKS-FOUNDATION
 <img align="right" alt="GIF"  width="400px" src="https://www.thesparksfoundationsingapore.org/images/logo_small.png"/> <br> <br>
 
-## Task-Exploratory Data Analysis - Retail (Level - Beginner) <br>
+## Task-Prediction using Supervised ML (Level - Beginner) <br> <br>
+> Problem statement :
+- Predict the percentage of an student based on the no. of study hours. <br>
+- This is a simple linear regression task as it involves just 2 variables.<br>
+- You can use R, Python, SAS Enterprise Miner or any other tool.<br>
+- What will be predicted score if a student studies for 9.25 hrs/ day? <br>
+- Here is the dataset :
+<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Prediction%20using%20Supervised%20ML/student_scores%20-%20student_scores.csv">Dataset.csv</a><br><br>
+> Solution:
+<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Prediction%20using%20Supervised%20ML/Supervised%20ML%20.ipynb"> Prediction using Supervised ML</a><br>
+>Demo:
+<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Task%232%20The%20spark%20foundation%20.ipynb">Prediction using Supervised ML</a><br>
+
+## Task-Exploratory Data Analysis - Retail (Level - Beginner) <br><br>
+> Problem Statement:
 - Perform ‘Exploratory Data Analysis’ on dataset ‘Retail(Dataset).csv’ <br>
 - As a business manager, try to find out the weak areas where you can work to
 make more profit.<br>
 - What all business problems you can derive by exploring the data?<br>
 - You can choose any of the tool of your choice<br>
 (Python/R/Tableau/PowerBI/Excel/SAP/SAS)<br>
-<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Exploratory%20Data%20Analysis%20-%20Retail/Retail(Dataset).csv">Dataset</a><br>
+- Here is the dataset :
+<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Exploratory%20Data%20Analysis%20-%20Retail/Retail(Dataset).csv">Dataset.csv</a><br>
+<br>
+> Solution:
+<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Exploratory%20Data%20Analysis%20-%20Retail/Exploratory%20Data%20Analysis%20-%20Retail.ipynb"> Exploratory Data Analysis-Retail</a><br>
+>Demo:
+<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Task%232%20The%20spark%20foundation%20.ipynb">Exploratory Data Analysis-Retail</a><br>
 
 
-
+<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Task-3/Iris.csv">k</a>
 
 
 
