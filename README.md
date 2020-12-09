@@ -2,7 +2,7 @@
 ![](https://img.shields.io/badge/Status-Complete-green.svg)
 
 
-<img align="right" alt="GIF"  width="400px" src="https://www.thesparksfoundationsingapore.org/images/logo_small.png"/> <br> <br>
+<br><br>
 
 ## Prediction using Supervised ML (Level - Beginner) <br> <br>
 > Problem statement :
