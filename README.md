@@ -112,7 +112,10 @@ predict the right class accordingly. <br>
 
 
 
-
+- Here is my certificate :D
+ 
+ <img align='center' alt="GIF" width='350px' src="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/certificate/TSF%20GRIP%20Certificate%20Kushal%20Das.jpg"> <br> <br>
+ 
 
 
 
@@ -140,7 +143,4 @@ If you have any Queries or Suggestions, feel free to reach out to me.
 
 
 
-- Here is my certificate :D
- 
- <img align='center' alt="GIF" width='450px' src="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/certificate/TSF%20GRIP%20Certificate%20Kushal%20Das.jpg"> <br> <br>
- 
+
