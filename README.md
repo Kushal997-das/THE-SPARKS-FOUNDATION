@@ -38,7 +38,21 @@ predict the right class accordingly. <br>
 > Solution:
 <a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Prediction%20using%20Decision%20Tree%20Algorithm/TSF%20task%234.ipynb">Prediction using DecisionTreeAlgorithm </a><br>
 > Demo:
-<a href="https://www.youtube.com/watch?v=UFl8yvJF4qk"><Prediction using Decision Tree Algorithm</a><br><br>
+<a href="https://www.youtube.com/watch?v=UFl8yvJF4qk">Prediction using Decision Tree Algorithm</a><br><br>
+
+## To explore Business Analytics (Level-Intermediate)
+> Problem Statement:
+- Perform ‘explore Business Analytics’ on dataset ‘superstore.csv’ <br>
+
+- What all business problems you can derive by exploring the data?<br>
+- You can choose any of the tool of your choice<br>
+(Python/R/Tableau/PowerBI/Excel/SAP/SAS)<br>
+- Here is the dataset :
+<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/To%20explore%20Business%20Analytics/superstore.csv">Dataset.csv</a><br>
+> Solution:
+<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/To%20explore%20Business%20Analytics/Task-5.ipynb">To explore Business Analytics </a><br>
+> Demo:
+<a href="https://www.youtube.com/watch?v=n_asl4kNRcg">To explore Business Analytics</a><br>
 
 
 ## Task-Exploratory Data Analysis - Retail (Level - Beginner) <br><br>
