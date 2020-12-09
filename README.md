@@ -117,6 +117,30 @@ predict the right class accordingly. <br>
 
 
 
+<p align="center">
+  <b><i>Let's connect! Find me on the web.</i></b>
+
+[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
+
+[<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">][gmail] 
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+]
+<br />
+<hr />
+
+
+[youtube]: https://www.youtube.com/channel/UCIHj6mNCMnSnmWLHOxzIESw?view_as=subscriber
+
+[gmail]: https://gmail.com
+[linkedin]: https://www.linkedin.com/in/kushal-das-7337421a9/
+
+
+
+  
+If you have any Queries or Suggestions, feel free to reach out to me.
+
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
 
 
