@@ -26,6 +26,23 @@ represent it visually.<br>
 > Demo:
 <a href="https://youtu.be/HV0tD0OQF5w">Prediction using Unsupervised ML</a><br><br>
 
+## Task-Exploratory Data Analysis - Retail (Level - Beginner) <br><br>
+> Problem Statement:
+- Perform ‘Exploratory Data Analysis’ on dataset ‘Retail(Dataset).csv’ <br>
+- As a business manager, try to find out the weak areas where you can work to
+make more profit.<br>
+- What all business problems you can derive by exploring the data?<br>
+- You can choose any of the tool of your choice<br>
+(Python/R/Tableau/PowerBI/Excel/SAP/SAS)<br>
+- Here is the dataset :
+<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Exploratory%20Data%20Analysis%20-%20Retail/Retail(Dataset).csv">Dataset.csv</a><br>
+<br>
+> Solution:
+<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Exploratory%20Data%20Analysis%20-%20Retail/Exploratory%20Data%20Analysis%20-%20Retail.ipynb"> Exploratory Data Analysis-Retail</a><br>
+> Demo:
+<a href="https://youtu.be/tPzOUmbOKnQ">Exploratory Data Analysis-Retail</a><br>
+
+
 
 ## Prediction using Decision Tree Algorithm (Level - Intermediate) <br><br>
 > Problem Statement:
@@ -55,21 +72,6 @@ predict the right class accordingly. <br>
 <a href="https://www.youtube.com/watch?v=n_asl4kNRcg">To explore Business Analytics</a><br>
 
 
-## Task-Exploratory Data Analysis - Retail (Level - Beginner) <br><br>
-> Problem Statement:
-- Perform ‘Exploratory Data Analysis’ on dataset ‘Retail(Dataset).csv’ <br>
-- As a business manager, try to find out the weak areas where you can work to
-make more profit.<br>
-- What all business problems you can derive by exploring the data?<br>
-- You can choose any of the tool of your choice<br>
-(Python/R/Tableau/PowerBI/Excel/SAP/SAS)<br>
-- Here is the dataset :
-<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Exploratory%20Data%20Analysis%20-%20Retail/Retail(Dataset).csv">Dataset.csv</a><br>
-<br>
-> Solution:
-<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Exploratory%20Data%20Analysis%20-%20Retail/Exploratory%20Data%20Analysis%20-%20Retail.ipynb"> Exploratory Data Analysis-Retail</a><br>
->Demo:
-<a href="https://youtu.be/tPzOUmbOKnQ">Exploratory Data Analysis-Retail</a><br>
 
 
 
