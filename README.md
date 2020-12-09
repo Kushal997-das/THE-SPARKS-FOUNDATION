@@ -1,7 +1,7 @@
 # THE-SPARKS-FOUNDATION
 <img align="right" alt="GIF"  width="400px" src="https://www.thesparksfoundationsingapore.org/images/logo_small.png"/> <br> <br>
 
-## Task-Prediction using Supervised ML (Level - Beginner) <br> <br>
+## Prediction using Supervised ML (Level - Beginner) <br> <br>
 > Problem statement :
 - Predict the percentage of an student based on the no. of study hours. <br>
 - This is a simple linear regression task as it involves just 2 variables.<br>
@@ -20,7 +20,7 @@
 represent it visually.<br>
 - Use R or Python or perform this task<br>
 - Here is the dataset :
-<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Prediction%20using%20Unsupervised%20ML/Iris.csv">Dataset.csv</a><br>
+<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Prediction%20using%20Unsupervised%20ML/Iris.csv">Dataset.csv</a><br><br>
 > Solution:
 <a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Prediction%20using%20Unsupervised%20ML/Unsupervised%20ML.ipynb"> Prediction using UnSupervised ML</a><br>
 > Demo:
@@ -35,7 +35,7 @@ make more profit.<br>
 - You can choose any of the tool of your choice<br>
 (Python/R/Tableau/PowerBI/Excel/SAP/SAS)<br>
 - Here is the dataset :
-<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Exploratory%20Data%20Analysis%20-%20Retail/Retail(Dataset).csv">Dataset.csv</a><br><br>
+<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Exploratory%20Data%20Analysis%20-%20Retail/Retail(Dataset).csv">Dataset.csv</a><br><br><br>
 > Solution:
 <a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Exploratory%20Data%20Analysis%20-%20Retail/Exploratory%20Data%20Analysis%20-%20Retail.ipynb"> Exploratory Data Analysis-Retail</a><br>
 > Demo:
@@ -50,7 +50,7 @@ make more profit.<br>
 predict the right class accordingly. <br>
 - Use R or Python or perform this task<br>
 - Here is the dataset :
-<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Prediction%20using%20Decision%20Tree%20Algorithm/Iris27%20.csv">Dataset.csv</a><br>
+<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Prediction%20using%20Decision%20Tree%20Algorithm/Iris27%20.csv">Dataset.csv</a><br><br>
 > Solution:
 <a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Prediction%20using%20Decision%20Tree%20Algorithm/TSF%20task%234.ipynb">Prediction using DecisionTreeAlgorithm </a><br>
 > Demo:
@@ -84,8 +84,21 @@ predict the right class accordingly. <br>
 > Demo:
 <a href=" ">Exploratory Data Analysis - Terrorism</a><br><br>
 
+## Exploratory Data Analysis - Sports (Level - Advanced)
 
-
+> Problem Statement:
+- Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’<br>
+- As a sports analysts, find out the most successful teams, players and factors<br>
+-contributing win or loss of a team.<br>
+- Suggest teams or players a company should endorse for its products.<br>
+- You can choose any of the tool of your choice
+(Python/R/Tableau/PowerBI/Excel/SAP/SAS)<br>
+- Here is the dataset :
+<a href="https://bit.ly/34SRn3b">Dataset.csv</a><br>
+> Solution:
+<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Exploratory%20Data%20Analysis%20-%20Sports/Exploratory%20Data%20Analysis%20-%20Sports.ipynb">Exploratory Data Analysis - Sports</a><br>
+> Demo:
+<a href=" ">Exploratory Data Analysis - Sports</a><br><br>
 
 
 
