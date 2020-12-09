@@ -1,3 +1,7 @@
+![](https://img.shields.io/badge/Programming_Language-Python-blue.svg)
+![](https://img.shields.io/badge/Status-Complete-green.svg)
+
+
 # THE-SPARKS-FOUNDATION
 <img align="right" alt="GIF"  width="400px" src="https://www.thesparksfoundationsingapore.org/images/logo_small.png"/> <br> <br>
 
@@ -104,18 +108,6 @@ predict the right class accordingly. <br>
 
 
 
-
-
-
-
-
-
-
-
-- Here is my certificate :D
- 
- <img align='center' alt="GIF" width='350px' src="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/certificate/TSF%20GRIP%20Certificate%20Kushal%20Das.jpg"> <br> <br>
- 
 
 
 
