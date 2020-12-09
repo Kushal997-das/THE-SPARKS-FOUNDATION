@@ -128,7 +128,7 @@ predict the right class accordingly. <br>
 
 
 [youtube]: https://www.youtube.com/channel/UCIHj6mNCMnSnmWLHOxzIESw?view_as=subscriber
-[gmail]: <a href="mailto:daskushal980@gmail.com">
+[gmail]: mailto:daskushal980@gmail.com
 [linkedin]: https://www.linkedin.com/in/kushal-das-7337421a9/
 
 
