@@ -2,13 +2,13 @@
 <img align="right" alt="GIF"  width="400px" src="https://www.thesparksfoundationsingapore.org/images/logo_small.png"/> <br> <br>
 
 ## Task-Exploratory Data Analysis - Retail (Level - Beginner) <br>
-● Perform ‘Exploratory Data Analysis’ on dataset ‘Retail(Dataset).csv’
-● As a business manager, try to find out the weak areas where you can work to
-make more profit.
-● What all business problems you can derive by exploring the data?
-● You can choose any of the tool of your choice
-(Python/R/Tableau/PowerBI/Excel/SAP/SAS)
-● Dataset: https://bit.ly/3i4rbWl
+- Perform ‘Exploratory Data Analysis’ on dataset ‘Retail(Dataset).csv’ <br>
+- As a business manager, try to find out the weak areas where you can work to
+make more profit.<br>
+- What all business problems you can derive by exploring the data?<br>
+- You can choose any of the tool of your choice<br>
+(Python/R/Tableau/PowerBI/Excel/SAP/SAS)<br>
+<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Exploratory%20Data%20Analysis%20-%20Retail/Retail(Dataset).csv">Dataset</a><br>
 
 
 
