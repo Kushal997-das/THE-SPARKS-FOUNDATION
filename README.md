@@ -1,4 +1,5 @@
-
+[![](https://img.shields.io/badge/Author-KushalDas-green.svg)](https://github.com/Kushal997-das)<br>
+[![Hello programmer Welcome to this repo](https://img.shields.io/badge/Hello!-Welcometothisrepo-brightgreen.svg?style=flat&logo=github)](https://github.com/kushal997-das)[![Profile](https://Visitors-badge.glitch.me/badge?page_id=kushal997-das/THE-SPARKS-FOUNDATION.profileviews-badge)](https://github.com/kushal997-das/THE-SPARKS-FOUNDATION)![](https://img.shields.io/badge/Programming_Language-Python-blue.svg)![](https://img.shields.io/badge/Status-Complete-green.svg)[![](https://img.shields.io/github/license/Kushal997-das/THE-SPARKS-FOUNDATION.svg?style=plastic)](https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION)[![](https://img.shields.io/github/languages/code-size/Kushal997-das/THE-SPARKS-FOUNDATION.svg?style=plastic)](https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION)[![](https://img.shields.io/github/languages/top/Kushal997-das/THE-SPARKS-FOUNDATION.svg?style=plastic)](https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION)[![](https://img.shields.io/github/Follow/Kushal997-das.svg?style=plastic)](https://github.com/Kushal997-das)[![GitHub issues](https://img.shields.io/github/issues/Kushal997-das/THE-SPARKS-FOUNDATION.svg)](https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/issues) [![GitHub forks](https://img.shields.io/github/forks/Kushal997-das/THE-SPARKS-FOUNDATION.svg)](https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/network) [![GitHub stars](https://img.shields.io/github/stars/Kushal997-das/THE-SPARKS-FOUNDATION.svg)](https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/stargazers)
 <br><br>
 
 ## Prediction using Supervised ML (Level - Beginner) <br> <br>
@@ -114,13 +115,14 @@ predict the right class accordingly. <br>
 [<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
 [<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">][gmail] 
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+[<img height="30" src="https://img.shields.io/badge/github-blue.svg?&style=for-the-badge&logo=github&logoColor=white" />][github]
 <br />
 <hr />
-
 
 [youtube]: https://www.youtube.com/channel/UCIHj6mNCMnSnmWLHOxzIESw?view_as=subscriber
 [gmail]: mailto:daskushal980@gmail.com
 [linkedin]: https://www.linkedin.com/in/kushal-das-7337421a9/
+[github]: https://github.com/Kushal997-das/
 
 
 
