@@ -1,6 +1,8 @@
+[![](https://img.shields.io/badge/Author-KushalDas-green.svg)](https://github.com/Kushal997-das)
 ![](https://img.shields.io/badge/Programming_Language-Python-blue.svg)
 ![](https://img.shields.io/badge/Status-Complete-green.svg)
-
+[![](https://img.shields.io/github/license/nateshmbhat/pyttsx3?style=plastic)](https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION)
+[![](https://img.shields.io/github/languages/code-size/nateshmbhat/pyttsx3.svg?style=plastic)](https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION)
 
 <br><br>
 
