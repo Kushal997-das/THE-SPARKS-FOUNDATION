@@ -1,9 +1,4 @@
-[![](https://img.shields.io/badge/Author-KushalDas-green.svg)](https://github.com/Kushal997-das)
-![](https://img.shields.io/badge/Programming_Language-Python-blue.svg)
-![](https://img.shields.io/badge/Status-Complete-green.svg)
-[![](https://img.shields.io/github/license/Kushal997-das/THE-SPARKS-FOUNDATION.svg?style=plastic)](https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION)
-[![](https://img.shields.io/github/languages/code-size/Kushal997-das/THE-SPARKS-FOUNDATION.svg?style=plastic)](https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION)
-[![](https://img.shields.io/github/languages/top/Kushal997-das/THE-SPARKS-FOUNDATION.svg?style=plastic)](https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION)
+
 <br><br>
 
 ## Prediction using Supervised ML (Level - Beginner) <br> <br>
