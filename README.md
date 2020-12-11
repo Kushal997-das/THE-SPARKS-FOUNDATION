@@ -83,7 +83,7 @@ predict the right class accordingly. <br>
 > Solution:
 <a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Exploratory%20Data%20Analysis%20-%20Terrorism/Exploratory%20Data%20Analysis%20-%20Terrorism.ipynb">Exploratory Data Analysis - Terrorism</a><br>
 > Demo:
-<a href="https://youtu.be/EhUenBhruqk ">Exploratory Data Analysis - Terrorism</a><br><br>
+<a href="https://youtu.be/a67W7Tl_g-8 ">Exploratory Data Analysis - Terrorism</a><br><br>
 
 ## Exploratory Data Analysis - Sports (Level - Advanced)
 
