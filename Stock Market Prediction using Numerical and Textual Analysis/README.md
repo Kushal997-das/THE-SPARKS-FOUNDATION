@@ -1,2 +1,2 @@
--Download historical stock prices from finance.yahoo.com <br>
+- Download historical stock prices from finance.yahoo.com <br>
 - Download textual (news) data from https://bit.ly/36fFPI6 <br>
