@@ -115,13 +115,13 @@ findings to create a hybrid model<br>
 - You are free to select a different stock to analyze and news dataset as well
 while not changing the objective of the task.<br>
 - Here is the dataset :
-  - Download historical stock prices from finance.yahoo.com
+  - Download historical stock prices from <a href="finance.yahoo.com">finance.yahoo.com</a><br>
   - Download textual (news) data from https://bit.ly/36fFPI6
 </a><br>
 > Solution:
-<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Exploratory%20Data%20Analysis%20-%20Sports/Exploratory%20Data%20Analysis%20-%20Sports.ipynb">Exploratory Data Analysis - Sports</a><br>
+<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Stock%20Market%20Prediction%20using%20Numerical%20and%20Textual%20Analysis/Stock%20Market%20Prediction%20.ipynb">Stock Market Prediction using Numerical and Textual Analysis</a><br>
 > Demo:
-<a href="https://youtu.be/aXOHe1lsPBo">Exploratory Data Analysis - Sports</a><br><br>
+<a href="https://youtu.be/4aQkjzaDQIg">Stock Market Prediction using Numerical and Textual Analysis</a><br><br>
 
 
 
