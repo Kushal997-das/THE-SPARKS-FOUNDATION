@@ -123,9 +123,23 @@ while not changing the objective of the task.<br>
 > Demo:
 <a href="https://youtu.be/4aQkjzaDQIg">Stock Market Prediction using Numerical and Textual Analysis</a><br><br>
 
+## Timeline Analysis : Covid-19 (Level - Advanced)
 
 
+> Problem Statement:
+- Create a storyboard showing spread of Covid-19 cases in your country or any
+region (Asia, Europe, BRICS etc) using Tableau, Power BI or SAP <br>
 
+- Identify interesting patterns and possible reasons helping Covid-19 spread with
+basic as well as advanced charts <br>
+- Here is the dataset :
+
+  - Dataset: Daily updated .csv file on https://bit.ly/30d2gdi
+<br>  
+> Solution:
+<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Timeline%20Analysis%20:%20Covid-19/COVID19_Analysis.ipynb">Timeline Analysis : Covid-19 </a><br>
+> Demo:
+<a href="">Timeline Analysis : Covid-19</a><br><br>
 
 
 
