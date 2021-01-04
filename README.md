@@ -36,7 +36,7 @@ represent it visually.<br>
 <a href="https://youtu.be/HV0tD0OQF5w">Prediction using Unsupervised ML</a>
 
 <br><br>
-<img height="27" src="https://img.shields.io/badge/Exploratory Data Analysis (Retail) - Level  Beginner-green.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
+<img height="27" src="https://img.shields.io/badge/Exploratory Data Analysis (Retail) -Level  Beginner-green.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
 <br>
 
 > Problem Statement:
@@ -55,7 +55,7 @@ make more profit.<br>
 <a href="https://youtu.be/tPzOUmbOKnQ">Exploratory Data Analysis-Retail</a>
 
 <br><br>
-<img height="27" src="https://img.shields.io/badge/Prediction using Decision Tree Algorithm - Level - Intermediate-orange.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
+<img height="27" src="https://img.shields.io/badge/Prediction using Decision Tree Algorithm -Level  Intermediate-orange.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
 <br>
 
 > Problem Statement:
@@ -72,7 +72,7 @@ predict the right class accordingly. <br>
 <a href="https://www.youtube.com/watch?v=UFl8yvJF4qk">Prediction using Decision Tree Algorithm</a>
 
 <br><br>
-<img height="27" src="https://img.shields.io/badge/To explore Business Analytics - Level - Intermediate-orange.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
+<img height="27" src="https://img.shields.io/badge/To explore Business Analytics -Level  Intermediate-orange.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
 <br>
 
 > Problem Statement:
@@ -90,7 +90,7 @@ predict the right class accordingly. <br>
 <a href="https://www.youtube.com/watch?v=n_asl4kNRcg">To explore Business Analytics</a>
 
 <br><br>
-<img height="27" src="https://img.shields.io/badge/Exploratory Data Analysis (Terrorism) - Level - Intermediate-orange.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
+<img height="27" src="https://img.shields.io/badge/Exploratory Data Analysis (Terrorism) -Level  Intermediate-orange.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
 <br>
 
 > Problem Statement:
@@ -108,7 +108,7 @@ predict the right class accordingly. <br>
 <a href="https://youtu.be/a67W7Tl_g-8 ">Exploratory Data Analysis - Terrorism</a>
 
 <br><br>
-<img height="27" src="https://img.shields.io/badge/Exploratory Data Analysis (Sports) - Level - Advanced-red.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
+<img height="27" src="https://img.shields.io/badge/Exploratory Data Analysis (Sports) -Level  Advanced-red.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
 <br>
 
 > Problem Statement:
@@ -127,7 +127,7 @@ predict the right class accordingly. <br>
 <a href="https://youtu.be/aXOHe1lsPBo">Exploratory Data Analysis - Sports</a>
 
 <br><br>
-<img height="27" src="https://img.shields.io/badge/Stock Market Prediction using Numerical and Textual Analysis - Level - Advanced-red.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
+<img height="27" src="https://img.shields.io/badge/Stock Market Prediction using Numerical and Textual Analysis -Level  Advanced-red.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
 <br>
 
 > Problem Statement:
@@ -150,7 +150,7 @@ while not changing the objective of the task.<br>
 <a href="https://youtu.be/4aQkjzaDQIg">Stock Market Prediction using Numerical and Textual Analysis</a>
 
 <br><br>
-<img height="27" src="https://img.shields.io/badge/Timeline Analysis : Covid-19 - Level - Advanced-red.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
+<img height="27" src="https://img.shields.io/badge/Timeline Analysis : Covid-19 -Level  Advanced-red.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
 <br>
 
 > Problem Statement:
