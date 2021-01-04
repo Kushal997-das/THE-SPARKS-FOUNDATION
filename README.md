@@ -3,8 +3,8 @@
 [![](https://img.shields.io/badge/Author-KushalDas-green.svg)](https://github.com/Kushal997-das)<br>
 [![Hello programmer Welcome to this repo](https://img.shields.io/badge/Hello!-Welcometothisrepo-brightgreen.svg?style=flat&logo=github)](https://github.com/kushal997-das)![](https://img.shields.io/badge/Programming_Language-Python-orange.svg)![](https://img.shields.io/badge/Status-Complete-green.svg)[![](https://img.shields.io/github/license/Kushal997-das/THE-SPARKS-FOUNDATION.svg?style=plastic)](https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION)[![](https://img.shields.io/github/languages/code-size/Kushal997-das/THE-SPARKS-FOUNDATION.svg?style=plastic)](https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION)[![](https://img.shields.io/github/languages/top/Kushal997-das/THE-SPARKS-FOUNDATION.svg?style=plastic)](https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION)[![](https://img.shields.io/github/Follow/Kushal997-das.svg?style=plastic)](https://github.com/Kushal997-das)[![GitHub issues](https://img.shields.io/github/issues/Kushal997-das/THE-SPARKS-FOUNDATION.svg)](https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/issues) [![GitHub forks](https://img.shields.io/github/forks/Kushal997-das/THE-SPARKS-FOUNDATION.svg)](https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/network) [![GitHub stars](https://img.shields.io/github/stars/Kushal997-das/THE-SPARKS-FOUNDATION.svg)](https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/stargazers)
 [![](https://img.shields.io/badge/Followme-Github-green.svg)](https://github.com/Kushal997-das)
-<br><br>
-<img height="27" src="https://img.shields.io/badge/Prediction using Supervised ML -Level  Beginner-green.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue" />
+<br><br><br>
+<img height="27" src="https://img.shields.io/badge/Prediction using Supervised ML -Level  Beginner-green.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=red" />
 <br>
 > Problem statement :
 - Predict the percentage of an student based on the no. of study hours. <br>
