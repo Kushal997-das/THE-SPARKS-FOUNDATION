@@ -1,4 +1,4 @@
-<img align='center' height="30" src="https://img.shields.io/badge/The Sparks Foundation-orange.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue" />
+<img align='center' alt='demo' height="30" src="https://img.shields.io/badge/The Sparks Foundation-orange.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue" />
 
 [![](https://img.shields.io/badge/Author-KushalDas-green.svg)](https://github.com/Kushal997-das)<br>
 [![Hello programmer Welcome to this repo](https://img.shields.io/badge/Hello!-Welcometothisrepo-brightgreen.svg?style=flat&logo=github)](https://github.com/kushal997-das)![](https://img.shields.io/badge/Programming_Language-Python-orange.svg)![](https://img.shields.io/badge/Status-Complete-green.svg)[![](https://img.shields.io/github/license/Kushal997-das/THE-SPARKS-FOUNDATION.svg?style=plastic)](https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION)[![](https://img.shields.io/github/languages/code-size/Kushal997-das/THE-SPARKS-FOUNDATION.svg?style=plastic)](https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION)[![](https://img.shields.io/github/languages/top/Kushal997-das/THE-SPARKS-FOUNDATION.svg?style=plastic)](https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION)[![](https://img.shields.io/github/Follow/Kushal997-das.svg?style=plastic)](https://github.com/Kushal997-das)[![GitHub issues](https://img.shields.io/github/issues/Kushal997-das/THE-SPARKS-FOUNDATION.svg)](https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/issues) [![GitHub forks](https://img.shields.io/github/forks/Kushal997-das/THE-SPARKS-FOUNDATION.svg)](https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/network) [![GitHub stars](https://img.shields.io/github/stars/Kushal997-das/THE-SPARKS-FOUNDATION.svg)](https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/stargazers)
@@ -150,7 +150,7 @@ while not changing the objective of the task.<br>
 <a href="https://youtu.be/4aQkjzaDQIg">Stock Market Prediction using Numerical and Textual Analysis</a>
 
 <br><br>
-<img height="27" src="https://img.shields.io/badge/Timeline Analysis : Covid-19 -Level  Advanced-red.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
+<img height="27" src="https://img.shields.io/badge/Timeline Analysis: COVID 19 -Level  Advanced-red.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
 <br>
 
 > Problem Statement:
@@ -169,9 +169,6 @@ basic as well as advanced charts <br>
 <a href="">Timeline Analysis : Covid-19</a>
 
 <br><br>
-
-
-
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
 
