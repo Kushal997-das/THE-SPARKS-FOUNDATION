@@ -16,9 +16,10 @@
 > Solution:
 <a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Prediction%20using%20Supervised%20ML/Supervised%20ML%20.ipynb"> Prediction using Supervised ML</a><br>
 >Demo:
-<a href="https://youtu.be/yPUkaPVM2EY">Prediction using Supervised ML</a><br><br>
-
-## Prediction using Unsupervised ML (Level - Beginner)<br><br>
+<a href="https://youtu.be/yPUkaPVM2EY">Prediction using Supervised ML</a>
+<br><br>
+<img height="27" src="https://img.shields.io/badge/Prediction using Unsupervised ML -Level  Beginner-green.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
+<br>
 > Problem Statement:
 - From the given ‘Iris’ dataset, predict the optimum number of clusters and
 represent it visually.<br>
