@@ -14,7 +14,7 @@
 - Here is the dataset :
 <a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Prediction%20using%20Supervised%20ML/student_scores%20-%20student_scores.csv">Dataset.csv</a><br><br>
 > Solution:
-<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Prediction%20using%20Supervised%20ML/Supervised%20ML%20.ipynb"> Prediction using Supervised ML</a><br>
+<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Prediction%20using%20Supervised%20ML/Supervised%20ML%20.ipynb"> Prediction using Supervised ML</a>
 >Demo:
 <a href="https://youtu.be/yPUkaPVM2EY">Prediction using Supervised ML</a>
 <br><br>
