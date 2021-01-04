@@ -30,9 +30,12 @@ represent it visually.<br>
 - Here is the dataset :
 <a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Prediction%20using%20Unsupervised%20ML/Iris.csv">Dataset.csv</a><br><br>
 > Solution:
-<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Prediction%20using%20Unsupervised%20ML/Unsupervised%20ML.ipynb"> Prediction using UnSupervised ML</a><br>
+<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Prediction%20using%20Unsupervised%20ML/Unsupervised%20ML.ipynb"> Prediction using UnSupervised ML</a>
+
 > Demo:
-<a href="https://youtu.be/HV0tD0OQF5w">Prediction using Unsupervised ML</a><br><br>
+<a href="https://youtu.be/HV0tD0OQF5w">Prediction using Unsupervised ML</a>
+
+<br><br>
 <img height="27" src="https://img.shields.io/badge/Exploratory Data Analysis (Retail) - Level  Beginner-green.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
 <br>
 
@@ -46,13 +49,15 @@ make more profit.<br>
 - Here is the dataset :
 <a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Exploratory%20Data%20Analysis%20-%20Retail/Retail(Dataset).csv">Dataset.csv</a><br><br><br>
 > Solution:
-<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Exploratory%20Data%20Analysis%20-%20Retail/Exploratory%20Data%20Analysis%20-%20Retail.ipynb"> Exploratory Data Analysis-Retail</a><br>
+<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Exploratory%20Data%20Analysis%20-%20Retail/Exploratory%20Data%20Analysis%20-%20Retail.ipynb"> Exploratory Data Analysis-Retail</a>
+
 > Demo:
-<a href="https://youtu.be/tPzOUmbOKnQ">Exploratory Data Analysis-Retail</a><br><br>
-<img height="27" src="https://img.shields.io/badge/Prediction using Decision Tree Algorithm - Level  Beginner-orange.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
+<a href="https://youtu.be/tPzOUmbOKnQ">Exploratory Data Analysis-Retail</a>
+
+<br><br>
+<img height="27" src="https://img.shields.io/badge/Prediction using Decision Tree Algorithm - Level - Intermediate-orange.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
 <br>
 
-## Prediction using Decision Tree Algorithm (Level - Intermediate) <br><br>
 > Problem Statement:
 - Create the Decision Tree classifier and visualize it graphically.<br>
 - The purpose is if we feed any new data to this classifier, it would be able to
@@ -61,11 +66,15 @@ predict the right class accordingly. <br>
 - Here is the dataset :
 <a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Prediction%20using%20Decision%20Tree%20Algorithm/Iris27%20.csv">Dataset.csv</a><br><br>
 > Solution:
-<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Prediction%20using%20Decision%20Tree%20Algorithm/TSF%20task%234.ipynb">Prediction using DecisionTreeAlgorithm </a><br>
-> Demo:
-<a href="https://www.youtube.com/watch?v=UFl8yvJF4qk">Prediction using Decision Tree Algorithm</a><br><br>
+<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Prediction%20using%20Decision%20Tree%20Algorithm/TSF%20task%234.ipynb">Prediction using DecisionTreeAlgorithm </a>
 
-## To explore Business Analytics (Level-Intermediate) <br><br>
+> Demo:
+<a href="https://www.youtube.com/watch?v=UFl8yvJF4qk">Prediction using Decision Tree Algorithm</a>
+
+<br><br>
+<img height="27" src="https://img.shields.io/badge/To explore Business Analytics - Level - Intermediate-orange.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
+<br>
+
 > Problem Statement:
 - Perform ‘explore Business Analytics’ on dataset ‘superstore.csv’ <br>
 
@@ -75,11 +84,15 @@ predict the right class accordingly. <br>
 - Here is the dataset :
 <a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/To%20explore%20Business%20Analytics/superstore.csv">Dataset.csv</a><br>
 > Solution:
-<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/To%20explore%20Business%20Analytics/Task-5.ipynb">To explore Business Analytics </a><br>
-> Demo:
-<a href="https://www.youtube.com/watch?v=n_asl4kNRcg">To explore Business Analytics</a><br><br>
+<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/To%20explore%20Business%20Analytics/Task-5.ipynb">To explore Business Analytics </a>
 
-## Exploratory Data Analysis - Terrorism (Level - Intermediate)
+> Demo:
+<a href="https://www.youtube.com/watch?v=n_asl4kNRcg">To explore Business Analytics</a>
+
+<br><br>
+<img height="27" src="https://img.shields.io/badge/Exploratory Data Analysis (Terrorism) - Level - Intermediate-orange.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
+<br>
+
 > Problem Statement:
 - Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’ <br>
 - As a security/defense analyst, try to find out the hot zone of terrorism.<br>
@@ -89,11 +102,14 @@ predict the right class accordingly. <br>
 - Here is the dataset :
 <a href="https://bit.ly/2TK5Xn5">Dataset.csv</a><br>
 > Solution:
-<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Exploratory%20Data%20Analysis%20-%20Terrorism/Exploratory%20Data%20Analysis%20-%20Terrorism.ipynb">Exploratory Data Analysis - Terrorism</a><br>
-> Demo:
-<a href="https://youtu.be/a67W7Tl_g-8 ">Exploratory Data Analysis - Terrorism</a><br><br>
+<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Exploratory%20Data%20Analysis%20-%20Terrorism/Exploratory%20Data%20Analysis%20-%20Terrorism.ipynb">Exploratory Data Analysis - Terrorism</a>
 
-## Exploratory Data Analysis - Sports (Level - Advanced)
+> Demo:
+<a href="https://youtu.be/a67W7Tl_g-8 ">Exploratory Data Analysis - Terrorism</a>
+
+<br><br>
+<img height="27" src="https://img.shields.io/badge/Exploratory Data Analysis (Sports) - Level - Advanced-red.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
+<br>
 
 > Problem Statement:
 - Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’<br>
@@ -105,12 +121,14 @@ predict the right class accordingly. <br>
 - Here is the dataset :
 <a href="https://bit.ly/34SRn3b">Dataset.csv</a><br>
 > Solution:
-<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Exploratory%20Data%20Analysis%20-%20Sports/Exploratory%20Data%20Analysis%20-%20Sports.ipynb">Exploratory Data Analysis - Sports</a><br>
+<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Exploratory%20Data%20Analysis%20-%20Sports/Exploratory%20Data%20Analysis%20-%20Sports.ipynb">Exploratory Data Analysis - Sports</a>
+
 > Demo:
-<a href="https://youtu.be/aXOHe1lsPBo">Exploratory Data Analysis - Sports</a><br><br>
+<a href="https://youtu.be/aXOHe1lsPBo">Exploratory Data Analysis - Sports</a>
 
-## Stock Market Prediction using Numerical and Textual Analysis (Level - Advanced)
-
+<br><br>
+<img height="27" src="https://img.shields.io/badge/Stock Market Prediction using Numerical and Textual Analysis - Level - Advanced-red.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
+<br>
 
 > Problem Statement:
 - Objective: Create a hybrid model for stock price/performance prediction
@@ -126,12 +144,14 @@ while not changing the objective of the task.<br>
   - Download textual (news) data from https://bit.ly/36fFPI6
 </a><br>
 > Solution:
-<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Stock%20Market%20Prediction%20using%20Numerical%20and%20Textual%20Analysis/Stock%20Market%20Prediction%20.ipynb">Stock Market Prediction using Numerical and Textual Analysis</a><br>
+<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Stock%20Market%20Prediction%20using%20Numerical%20and%20Textual%20Analysis/Stock%20Market%20Prediction%20.ipynb">Stock Market Prediction using Numerical and Textual Analysis</a>
+
 > Demo:
-<a href="https://youtu.be/4aQkjzaDQIg">Stock Market Prediction using Numerical and Textual Analysis</a><br><br>
+<a href="https://youtu.be/4aQkjzaDQIg">Stock Market Prediction using Numerical and Textual Analysis</a>
 
-## Timeline Analysis : Covid-19 (Level - Advanced)
-
+<br><br>
+<img height="27" src="https://img.shields.io/badge/Timeline Analysis : Covid-19 - Level - Advanced-red.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
+<br>
 
 > Problem Statement:
 - Create a storyboard showing spread of Covid-19 cases in your country or any
@@ -143,9 +163,12 @@ basic as well as advanced charts <br>
 
   - Dataset: Daily updated .csv file on https://bit.ly/30d2gdi <br>  
 > Solution:
-<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Timeline%20Analysis%20:%20Covid-19/COVID19_Analysis.ipynb">Timeline Analysis : Covid-19 </a><br>
+<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Timeline%20Analysis%20:%20Covid-19/COVID19_Analysis.ipynb">Timeline Analysis : Covid-19 </a>
+
 > Demo:
-<a href="">Timeline Analysis : Covid-19</a><br><br>
+<a href="">Timeline Analysis : Covid-19</a>
+
+<br><br>
 
 
 
