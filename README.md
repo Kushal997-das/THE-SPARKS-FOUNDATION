@@ -20,6 +20,7 @@
 <br><br>
 <img height="27" src="https://img.shields.io/badge/Prediction using Unsupervised ML -Level  Beginner-green.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
 <br>
+
 > Problem Statement:
 - From the given ‘Iris’ dataset, predict the optimum number of clusters and
 represent it visually.<br>
@@ -30,8 +31,8 @@ represent it visually.<br>
 <a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Prediction%20using%20Unsupervised%20ML/Unsupervised%20ML.ipynb"> Prediction using UnSupervised ML</a><br>
 > Demo:
 <a href="https://youtu.be/HV0tD0OQF5w">Prediction using Unsupervised ML</a><br><br>
+<img height="27" src="https://img.shields.io/badge/Exploratory Data Analysis (Retail) - Level  Beginner-green.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
 
-## Exploratory Data Analysis - Retail (Level - Beginner) <br><br>
 > Problem Statement:
 - Perform ‘Exploratory Data Analysis’ on dataset ‘Retail(Dataset).csv’ <br>
 - As a business manager, try to find out the weak areas where you can work to
