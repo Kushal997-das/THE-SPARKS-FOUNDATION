@@ -140,7 +140,7 @@ findings to create a hybrid model<br>
 - You are free to select a different stock to analyze and news dataset as well
 while not changing the objective of the task.<br>
 - Here is the dataset :
-  - Download historical stock prices from <a href="finance.yahoo.com">finance.yahoo.com</a><br>
+  - Download historical stock prices from <a href="https://in.finance.yahoo.com/quote/%5EBSESN/history/">finance.yahoo.com</a><br>
   - Download textual (news) data from https://bit.ly/36fFPI6
 </a><br>
 > Solution:
