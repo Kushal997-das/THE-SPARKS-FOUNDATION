@@ -163,7 +163,7 @@ basic as well as advanced charts <br>
 
   - Dataset: Daily updated .csv file on https://bit.ly/30d2gdi <br>  
 > Solution:
-<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Timeline%20Analysis%20:%20Covid-19/COVID19_Analysis.ipynb">Timeline Analysis : Covid-19 </a>
+<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Timeline%20Analysis%20%20Covid-19/COVID19.ipynb">Timeline Analysis : Covid-19 </a>
 
 > Demo:
 <a href="">Timeline Analysis : Covid-19</a>
